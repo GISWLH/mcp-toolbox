@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![mcp-toolbox — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 <div align="center">
 
 ![logo](./logo.png)
@@ -1111,3 +1115,18 @@ Please note that this project is released with a Contributor Code of Conduct. By
 ## Community
 
 Join our [Discord community](https://discord.gg/GQrFB3Ec3W) to connect with our developers!
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有界面与示例
+
+![MCP Toolbox 文档中的工具参数界面，展示酒店搜索工具的配置与调用入口；图中尚未执行查询。](assets/readme/result.png)
+
+MCP Toolbox 文档中的工具参数界面，展示酒店搜索工具的配置与调用入口；图中尚未执行查询。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/mcp-toolbox/blob/main/docs/en/documentation/configuration/toolbox-ui/tools.png)。
+
+<!-- /readme-visual-refresh:selected-result -->
